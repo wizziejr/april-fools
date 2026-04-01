@@ -4,20 +4,19 @@
             "Are you sure you don't love me?", // 1
             "Really really sure?", // 2
             "Are you absolutely positive?", // 3
-            "Please think again!", // 4
-            "Don't break my heart!", // 5
-            "Look into your heart!", // 6 (Old 10)
-            "Think of all our good memories!", // 7 (Old 11)
+            "Please think again! dont you love me", // 4
+            "Do you want to break my heart", // 5
+            "Look into your heart! dont u want me to stay there", // 6 (Old 10)
+            "Think of all our good memories! are you sure", // 7 (Old 11)
             "Are you completely heartless?", // 8 (Old 12)
-            "Even just a tiny bit?", // 9 (Old 13)
-            "Is there even a 1% chance?", // 10 (Old 14)
-            "Okay, seriously... please?", // 11 (Old 17)
-            "I'm not giving up!", // 12 (Old 18)
+            "Even just a tiny bit? am i not there", // 9 (Old 13)
+            "do you want me to give up", // 10 (Old 14)
+            "Okay, seriously...?", // 11 (Old 17)
+            "should i really  give up!", // 12 (Old 18)
             "I will keep asking!", // 13 (Old 19)
-            "Pretty please?", // 14 (Old 20)
-            "Why are you doing this?", // 15 (Old 21)
+            "are you really doing this?", // 15 (Old 21)
             "Is it because of something I said?", // 16 (Old 23)
-            "I can change!", // 17 (Old 24)
+            "do you hate me", // 17 (Old 24)
             "I'm begging!", // 18 (Old 26)
             "The green button looks better, click it!", // 19 (Old 27)
             "Why do you hate the green button?", // 20 (Old 32)
